@@ -1,0 +1,1 @@
+[Work In Progress]This is the start of a collection on what you might want to log in your environment. I'm starting this because I often see the question asked: "What should I log?", maybe for centralized collection, maybe for a SIEM, maybe for some compliance. The reply is often that it depends on your environment and your needs, followed sometimes by a list of technet articles.
